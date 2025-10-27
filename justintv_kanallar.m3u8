@@ -10,6 +10,10 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamliveas.m3u8
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivea2.m3u8
 #EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivea2.m3u8
+#EXTINF:-1 tvg-name="Adriatic Hurricanes - Danube Thunder (14:30)" group-title="Maç Yayınları",Adriatic Hurricanes - Danube Thunder (14:30)
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream602.m3u8
+#EXTINF:-1 tvg-name="Adriatic Hurricanes - Danube Thunder (14:30)" group-title="Maç Yayınları",Adriatic Hurricanes - Danube Thunder (14:30)
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream602.m3u8
 #EXTINF:-1 tvg-name="Aikawa M - Bayerlova M (14:23)" group-title="Maç Yayınları",Aikawa M - Bayerlova M (14:23)
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream212.m3u8
 #EXTINF:-1 tvg-name="Aikawa M - Bayerlova M (14:23)" group-title="Maç Yayınları",Aikawa M - Bayerlova M (14:23)
@@ -46,10 +50,6 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8
 https://andro.okan11gote12sokan.cfd/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-name="Atv" group-title="Ulusal Kanallar",Atv
 https://andro.okan11gote12sokan.cfd/checklist/androstreamliveatv.m3u8
-#EXTINF:-1 tvg-name="Bailly G A - Soriano Barrera A (14:02)" group-title="Maç Yayınları",Bailly G A - Soriano Barrera A (14:02)
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream201.m3u8
-#EXTINF:-1 tvg-name="Bailly G A - Soriano Barrera A (14:02)" group-title="Maç Yayınları",Bailly G A - Soriano Barrera A (14:02)
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream201.m3u8
 #EXTINF:-1 tvg-name="Banerjee S - Kingsley C (18:30)" group-title="Maç Yayınları",Banerjee S - Kingsley C (18:30)
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivech283165938.m3u8
 #EXTINF:-1 tvg-name="Banerjee S - Kingsley C (18:30)" group-title="Maç Yayınları",Banerjee S - Kingsley C (18:30)
@@ -412,10 +412,6 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivech283275998.m3u8
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream218.m3u8
 #EXTINF:-1 tvg-name="Krajci M - Pichler D (13:00)" group-title="Maç Yayınları",Krajci M - Pichler D (13:00)
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream218.m3u8
-#EXTINF:-1 tvg-name="Kuban (w) - SSh-7 Barnaul (w) (13:00)" group-title="Maç Yayınları",Kuban (w) - SSh-7 Barnaul (w) (13:00)
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream64.m3u8
-#EXTINF:-1 tvg-name="Kuban (w) - SSh-7 Barnaul (w) (13:00)" group-title="Maç Yayınları",Kuban (w) - SSh-7 Barnaul (w) (13:00)
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream64.m3u8
 #EXTINF:-1 tvg-name="Kwiatkowski Thai-Son - Zahraj P (23:00)" group-title="Maç Yayınları",Kwiatkowski Thai-Son - Zahraj P (23:00)
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivech282991811.m3u8
 #EXTINF:-1 tvg-name="Kwiatkowski Thai-Son - Zahraj P (23:00)" group-title="Maç Yayınları",Kwiatkowski Thai-Son - Zahraj P (23:00)
@@ -490,6 +486,10 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivech282991737.m3u8
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivech282991744.m3u8
 #EXTINF:-1 tvg-name="Munar J - Medvedev D (13:00)" group-title="Maç Yayınları",Munar J - Medvedev D (13:00)
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivech282991744.m3u8
+#EXTINF:-1 tvg-name="Nagy A - Bush T (14:30)" group-title="Maç Yayınları",Nagy A - Bush T (14:30)
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream204.m3u8
+#EXTINF:-1 tvg-name="Nagy A - Bush T (14:30)" group-title="Maç Yayınları",Nagy A - Bush T (14:30)
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream204.m3u8
 #EXTINF:-1 tvg-name="Nam Dinh - Da Nang (14:00)" group-title="Maç Yayınları",Nam Dinh - Da Nang (14:00)
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivechstream69.m3u8
 #EXTINF:-1 tvg-name="Nam Dinh - Da Nang (14:00)" group-title="Maç Yayınları",Nam Dinh - Da Nang (14:00)
