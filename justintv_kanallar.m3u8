@@ -10,12 +10,12 @@ https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
 #EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
-#EXTINF:-1 tvg-name="AMW Arka Gdynia - Polski Cukier Torun (22:15)" group-title="Maç Yayınları",AMW Arka Gdynia - Polski Cukier Torun (22:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18093268.m3u8
-#EXTINF:-1 tvg-name="AMW Arka Gdynia - Polski Cukier Torun (22:15)" group-title="Maç Yayınları",AMW Arka Gdynia - Polski Cukier Torun (22:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18093268.m3u8
 #EXTINF:-1 tvg-name="Adana Demirspor - Esenler Erokspor (16:00)" group-title="Maç Yayınları",Adana Demirspor - Esenler Erokspor (16:00)
 https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="Alftanes - Тор Thorl (22:15)" group-title="Maç Yayınları",Alftanes - Тор Thorl (22:15)
+https://andro.2385437.xyz/checklist/androstreamlivech18093256.m3u8
+#EXTINF:-1 tvg-name="Alftanes - Тор Thorl (22:15)" group-title="Maç Yayınları",Alftanes - Тор Thorl (22:15)
+https://andro.2385437.xyz/checklist/androstreamlivech18093256.m3u8
 #EXTINF:-1 tvg-name="Alina Makarova - Elena Naumenko (22:45)" group-title="Maç Yayınları",Alina Makarova - Elena Naumenko (22:45)
 https://andro.2385437.xyz/checklist/androstreamlivech18093420.m3u8
 #EXTINF:-1 tvg-name="Alina Makarova - Elena Naumenko (22:45)" group-title="Maç Yayınları",Alina Makarova - Elena Naumenko (22:45)
@@ -260,10 +260,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech18093315.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18093315.m3u8
 #EXTINF:-1 tvg-name="Misir - Fildişi Sahili (22:00)" group-title="Maç Yayınları",Misir - Fildişi Sahili (22:00)
 https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 tvg-name="Monmouth Hawks (Bayanlar) - UNC Wilmington Seahawks (Bayanlar) (22:00)" group-title="Maç Yayınları",Monmouth Hawks (Bayanlar) - UNC Wilmington Seahawks (Bayanlar) (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18093195.m3u8
-#EXTINF:-1 tvg-name="Monmouth Hawks (Bayanlar) - UNC Wilmington Seahawks (Bayanlar) (22:00)" group-title="Maç Yayınları",Monmouth Hawks (Bayanlar) - UNC Wilmington Seahawks (Bayanlar) (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18093195.m3u8
 #EXTINF:-1 tvg-name="Motor Cruise - Rhinos (23:00)" group-title="Maç Yayınları",Motor Cruise - Rhinos (23:00)
 https://andro.2385437.xyz/checklist/androstreamlivech18093449.m3u8
 #EXTINF:-1 tvg-name="Motor Cruise - Rhinos (23:00)" group-title="Maç Yayınları",Motor Cruise - Rhinos (23:00)
@@ -342,6 +338,10 @@ https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-name="Sochaux - Lens (23:00)" group-title="Maç Yayınları",Sochaux - Lens (23:00)
 https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-name="Sporting Lisboa - Imortal Albufeira (23:30)" group-title="Maç Yayınları",Sporting Lisboa - Imortal Albufeira (23:30)
+https://andro.2385437.xyz/checklist/androstreamlivech18093663.m3u8
+#EXTINF:-1 tvg-name="Sporting Lisboa - Imortal Albufeira (23:30)" group-title="Maç Yayınları",Sporting Lisboa - Imortal Albufeira (23:30)
+https://andro.2385437.xyz/checklist/androstreamlivech18093663.m3u8
 #EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
 https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
@@ -458,10 +458,6 @@ https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-name="US Avranches - Strasbourg (20:00)" group-title="Maç Yayınları",US Avranches - Strasbourg (20:00)
 https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="Union De Santa Fe U21 - Gimnasia Esgrima Comodoro Rivadavia U21 (22:00)" group-title="Maç Yayınları",Union De Santa Fe U21 - Gimnasia Esgrima Comodoro Rivadavia U21 (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18093341.m3u8
-#EXTINF:-1 tvg-name="Union De Santa Fe U21 - Gimnasia Esgrima Comodoro Rivadavia U21 (22:00)" group-title="Maç Yayınları",Union De Santa Fe U21 - Gimnasia Esgrima Comodoro Rivadavia U21 (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18093341.m3u8
 #EXTINF:-1 tvg-name="Valencia - Elche (23:00)" group-title="Maç Yayınları",Valencia - Elche (23:00)
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="Villarreal - Alaves (18:15)" group-title="Maç Yayınları",Villarreal - Alaves (18:15)
