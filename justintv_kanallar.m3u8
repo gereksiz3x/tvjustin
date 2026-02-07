@@ -2,14 +2,6 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 #EXT-X-ORIGIN:https://tvjustin.com
-#EXTINF:-1 tvg-name="1. FSV Mainz 05 - Augsburg (17:30)" group-title="Maç Yayınları",1. FSV Mainz 05 - Augsburg (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310018.m3u8
-#EXTINF:-1 tvg-name="1. FSV Mainz 05 - Augsburg (17:30)" group-title="Maç Yayınları",1. FSV Mainz 05 - Augsburg (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310018.m3u8
-#EXTINF:-1 tvg-name="1. Heidenheim - Hamburger (17:30)" group-title="Maç Yayınları",1. Heidenheim - Hamburger (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310011.m3u8
-#EXTINF:-1 tvg-name="1. Heidenheim - Hamburger (17:30)" group-title="Maç Yayınları",1. Heidenheim - Hamburger (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310011.m3u8
 #EXTINF:-1 tvg-name="1461 Trabzon - Mardin 1969 (13:00)" group-title="Maç Yayınları",1461 Trabzon - Mardin 1969 (13:00)
 https://andro.2385437.xyz/checklist/androstreamlivebikanal.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
@@ -46,10 +38,6 @@ https://andro.2385437.xyz/checklist/androstreamlivech18309739.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivech18309707.m3u8
 #EXTINF:-1 tvg-name="Al Jahra SC Kuwait - Al-Salmiya SC (16:40)" group-title="Maç Yayınları",Al Jahra SC Kuwait - Al-Salmiya SC (16:40)
 https://andro.2385437.xyz/checklist/androstreamlivech18309707.m3u8
-#EXTINF:-1 tvg-name="Al Kholood - Al Shabab Riyadh (17:00)" group-title="Maç Yayınları",Al Kholood - Al Shabab Riyadh (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18309948.m3u8
-#EXTINF:-1 tvg-name="Al Kholood - Al Shabab Riyadh (17:00)" group-title="Maç Yayınları",Al Kholood - Al Shabab Riyadh (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18309948.m3u8
 #EXTINF:-1 tvg-name="Al Qadsiah - Al Fateh (20:30)" group-title="Maç Yayınları",Al Qadsiah - Al Fateh (20:30)
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-name="Al-Faisaly Amman - Al-Wehdat SC (18:30)" group-title="Maç Yayınları",Al-Faisaly Amman - Al-Wehdat SC (18:30)
@@ -256,10 +244,6 @@ https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-name="Freiburg - Werder Bremen (17:30)" group-title="Maç Yayınları",Freiburg - Werder Bremen (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-name="Freiburg - Werder Bremen (17:30)" group-title="Maç Yayınları",Freiburg - Werder Bremen (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310009.m3u8
-#EXTINF:-1 tvg-name="Freiburg - Werder Bremen (17:30)" group-title="Maç Yayınları",Freiburg - Werder Bremen (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310009.m3u8
 #EXTINF:-1 tvg-name="Fulham - Everton (18:00)" group-title="Maç Yayınları",Fulham - Everton (18:00)
 https://andro.2385437.xyz/checklist/androstreamliveexn3.m3u8
 #EXTINF:-1 tvg-name="Fulham - Everton (18:00)" group-title="Maç Yayınları",Fulham - Everton (18:00)
@@ -458,10 +442,6 @@ https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 tvg-name="St. Etienne - Montpellier (22:00)" group-title="Maç Yayınları",St. Etienne - Montpellier (22:00)
 https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-name="St. Pauli - VfB Stuttgart (17:30)" group-title="Maç Yayınları",St. Pauli - VfB Stuttgart (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310015.m3u8
-#EXTINF:-1 tvg-name="St. Pauli - VfB Stuttgart (17:30)" group-title="Maç Yayınları",St. Pauli - VfB Stuttgart (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310015.m3u8
 #EXTINF:-1 tvg-name="St.Pauli - Stuttgart (17:30)" group-title="Maç Yayınları",St.Pauli - Stuttgart (17:30)
 https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-name="Stefano Travaglia - Daniel Merida Aguilar (16:15)" group-title="Maç Yayınları",Stefano Travaglia - Daniel Merida Aguilar (16:15)
@@ -568,10 +548,6 @@ https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="Trt Spor Yıldız" group-title="Ulusal Kanallar",Trt Spor Yıldız
 https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="Tulitsa (Bayanlar) - Minchanka (Bayanlar) (17:30)" group-title="Maç Yayınları",Tulitsa (Bayanlar) - Minchanka (Bayanlar) (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310027.m3u8
-#EXTINF:-1 tvg-name="Tulitsa (Bayanlar) - Minchanka (Bayanlar) (17:30)" group-title="Maç Yayınları",Tulitsa (Bayanlar) - Minchanka (Bayanlar) (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310027.m3u8
 #EXTINF:-1 tvg-name="Tv8" group-title="Ulusal Kanallar",Tv8
 https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 #EXTINF:-1 tvg-name="Tv8" group-title="Ulusal Kanallar",Tv8
@@ -590,10 +566,6 @@ https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivesifir.m3u8
 #EXTINF:-1 tvg-name="Valencia - Real Madrid (23:00)" group-title="Maç Yayınları",Valencia - Real Madrid (23:00)
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="VfL Wolfsburg - Borussia Dortmund (17:30)" group-title="Maç Yayınları",VfL Wolfsburg - Borussia Dortmund (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310014.m3u8
-#EXTINF:-1 tvg-name="VfL Wolfsburg - Borussia Dortmund (17:30)" group-title="Maç Yayınları",VfL Wolfsburg - Borussia Dortmund (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18310014.m3u8
 #EXTINF:-1 tvg-name="West Bromwich Albion - Stoke City (18:01)" group-title="Maç Yayınları",West Bromwich Albion - Stoke City (18:01)
 https://andro.2385437.xyz/checklist/androstreamlivech18310201.m3u8
 #EXTINF:-1 tvg-name="West Bromwich Albion - Stoke City (18:01)" group-title="Maç Yayınları",West Bromwich Albion - Stoke City (18:01)
